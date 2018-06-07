@@ -16,7 +16,7 @@ public class DesktopLauncher {
         config.height = 800;//480;
         config.vSyncEnabled = false;
         config.foregroundFPS = 0;
-        config.title = "Looprider " + Config.version + " | afomins@gmail.com";
+        config.title = "Loop rider " + Config.version + " | afomins@gmail.com";
         new LwjglApplication(new Main(), config);
     }
 }
