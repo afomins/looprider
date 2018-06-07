@@ -30,6 +30,11 @@ allprojects {
     }
 
     repositories {
+        // Workaround for Android APK export failure:
+        //   https://stackoverflow.com/questions/46972122/could-not-find-com-android-tools-lintlint-gradle-android-studio-3
+        google()
+        jcenter()
+
         mavenLocal()
         mavenCentral()
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
