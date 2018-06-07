@@ -49,6 +49,9 @@ project(":desktop") {
         
     }
 }
+/*
+    Workaround to build failure:
+      https://www.badlogicgames.com/forum/viewtopic.php?f=11&t=27639&p=109249#p109214
 
 project(":android") {
     apply plugin: "android"
@@ -72,7 +75,7 @@ project(":android") {
         
     }
 }
-
+*/
 project(":core") {
     apply plugin: "java"
 
