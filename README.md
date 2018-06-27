@@ -9,7 +9,7 @@ Following animated GIFs illustrate my how my **prototype** looks comparing to or
 
 |  My *"Loop rider"* prototype gameplay | Original *"Turn right"* gameplay |
 | --|--|
-| <img src="https://github.com/afomins/xxx" width="400"> | <img src="https://github.com/afomins/yyy" width="400"> |
+| <img src="https://github.com/afomins/looprider/blob/master/assets-raw/loop-rider-002.gif" width="300"> | <img src="https://github.com/afomins/looprider/blob/master/assets-raw/turn-right-000.gif" width="300"> |
 
 # Implementation details
 
