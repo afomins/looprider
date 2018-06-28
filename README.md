@@ -16,7 +16,7 @@ Following animated GIFs illustrate my how my **prototype** looks comparing to or
 # Implementation details
 
  * `libgx` was used as platform independent framework
- * `box2d` was used to simulate top-down car physics, I used following tutorial -> http://www.iforce2d.net/b2dtut/top-down-car
+ * `box2d` was used to simulate car physics and detect collisions. I used following `box2d` tutorial to implement top-down car physics -> http://www.iforce2d.net/b2dtut/top-down-car
  * Car and track are procedurally generated `box2d` bodies
  
 # How to run Desktop
