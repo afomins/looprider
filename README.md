@@ -6,6 +6,11 @@ This prototype requires driving physics fine-tuning and polishing, but I'm not g
 
 Basically *"Loop rider"* is just a clone of popular [*Turn Right*](https://play.google.com/store/apps/details?id=air.tv.avix.turnright&hl=en) Android game 
 
+# Downloads
+You try *"Loop rider"* `v0.4.0` yourself:
+ * Desktop JAR - https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.jar
+ * Android APK - https://github.com/afomins/looprider/releases/download/v0.4.0/looprider.v0.4.0.apk
+
 # How it looks
 Following animated GIFs illustrate my how my **prototype** looks comparing to original *"Turn right"* game whose gameplay I was supposed to clone:
 
