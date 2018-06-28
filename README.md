@@ -1,10 +1,7 @@
 # What is *"Loop rider"*
-*Loop rider* is `libgdx` top-down racing **game prototype** which I was asked to code to prove my gamedev skills while applying for gamedev position. 
-I spend ~20h, created basic gameplay prototype but unfortunately it was still not enough to get the job. 
+*Loop rider* is `libgdx` top-down racing game **prototype** which I was asked to code to show my programming skills while applying for gamedev position. Basically it is just a clone of popular [*Turn Right*](https://play.google.com/store/apps/details?id=air.tv.avix.turnright&hl=en) Android game. I spend ~20h, created basic gameplay prototype but unfortunately it was still not enough to get the job. 
 
-This prototype requires driving physics fine-tuning and polishing, but I'm not going to do that, I'll just publish sources as-is here.
-
-Basically *"Loop rider"* is just a clone of popular [*Turn Right*](https://play.google.com/store/apps/details?id=air.tv.avix.turnright&hl=en) Android game 
+This prototype requires physics fine-tuning and polishing to make a real game out of it, but I'm not going to do that, I'll just publish sources as-is here.
 
 # Downloads
 *"Loop rider"* `v0.4.0` binaries:
