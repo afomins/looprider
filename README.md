@@ -20,7 +20,7 @@ Following animated GIFs show my how my **prototype** looks comparing to original
  * `box2d` was used to simulate car physics and detect collisions. I used following `box2d` tutorial to implement top-down car physics -> http://www.iforce2d.net/b2dtut/top-down-car
  * Car and track are procedurally generated `box2d` bodies
  
-# Build instructions (desktop JAR)
+# Build instructions (Desktop JAR)
  * Clone `git@github.com:afomins/looprider.git` and import *Gradle* project it into your favorite IDE
  * Allow *Gradle* to download dependent packages and update project files
  * Run `com.matalok.looprider.desktop.DesktopLauncher` class
